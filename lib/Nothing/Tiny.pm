@@ -4,7 +4,8 @@ use warnings;
 
 =head1 NAME
 
-Nothing::Tiny - 
+Nothing::Tiny - a module that does nothing, albeit with no accessor
+overhead or non-core dependencies
 
 =cut
 
