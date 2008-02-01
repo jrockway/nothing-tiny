@@ -2,7 +2,7 @@ package Nothing::Tiny;
 use strict;
 use warnings;
 
-our $VERSION = '0';
+our $VERSION = '1';
 
 =head1 NAME
 
